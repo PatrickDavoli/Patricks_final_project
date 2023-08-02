@@ -1,3 +1,5 @@
+#Code does everything besides loading the new image with the overlayed text
+
 import jetson_inference
 import jetson_utils
 from jetson_utils import cudaFont
