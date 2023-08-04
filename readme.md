@@ -2,7 +2,7 @@
 
  My project tells the user what the breed of a dog in an image is. > 
 
-![Image of what the ouput image with the breed of the dog on it looks like]([Imgur](https://i.imgur.com/5QbZLmw.png))
+![Image of what the ouput image with the breed of the dog on it looks like][Imgur](https://i.imgur.com/5QbZLmw.png)
 
 ## The Algorithm
 
