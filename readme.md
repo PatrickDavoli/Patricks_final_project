@@ -1,6 +1,6 @@
 # Dog Breed Recognizer
 
- My project tells the user what the breed of a dog in an image is. > 
+ My project tells the user what the breed of a dog in an image is. 
 
 ![Image of what the ouput image with the breed of the dog on it looks like](https://i.imgur.com/5QbZLmw.png)
 
