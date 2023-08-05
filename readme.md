@@ -19,4 +19,4 @@ First, my code imports all the required libraries and functions, which are jetso
 7. Use the command (don't type any of the text in the parentheses, that is simply there to help explain the command) **python3 dog_breed_recognizer.py (or whatever you named your file with the dog_breed_recognizer code in it) --network=resnet-18 (this part is optional as the network is defaulted to googlenet, but you can set it to the one of your choosing with that part) output.jpg (the output can be called whatever you want, as long as it ends in .jpg)** in the terminal
 8. When the code is done running, you should see output.jpg (or whatever you named your output image) how up on the left side, in the Explorer (ctrl+shift+e to get in the explorer if you aren't already in it). Click on that, and you should see an image like the one above before the algorithm section, with the dog breed or "This wasn't recognized as a dog!" in the upper left corner
 
-[View a video explanation here][(video link)](https://youtu.be/lCsjooA60fg)https://youtu.be/lCsjooA60fg)
+[View a video explanation here][(video link)](https://youtu.be/lCsjooA60fg)
