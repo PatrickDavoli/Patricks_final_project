@@ -10,10 +10,11 @@ First, my code imports all the required libraries and functions, which are jetso
 
 ## Running this project
 
-1. Download VS code onto your device
+1. Download Visual Studio (VS) code onto your device
 2. Using the command palete, connect to your Jetson Nano with SSH
 3. Don't forget to make sure that python3 and the Jetson Inference library are installed.
-4. 
+4. Copy the dog_breed_recognizer.py code from this github into a new file in VS code, preferably named dog_breed_recognizer.py
+5. Use the command (don't type any of the text in the parentheses, that is simply there to help explain the command **python3 dog_breed_recognizer.py (or whatever you named your file with the dog_breed_recognizer code in it) --network=resnet-18 (this part is optional as the network is defaulted to googlenet, but you can set it to the one of your choosing with that part) output.jpg (the output can be called whatever you want, as long as it ends in .jpg)** in the terminal (in VS code)
 1. Add steps for running this project.
 2. Make sure to include any required libraries that need to be installed for your project to run.
 
